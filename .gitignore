@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# logs / tmp
+*.log
+tmp/
+*.tmp
+
+# OS-generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# secrets / env
+.env
+.env.local
+*.pem
+*.key
